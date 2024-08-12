@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokeiji/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gugu.keiji.2004@gmail.com)
 
-![Gustavo Keiji GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuKeiji&show_icons=true&theme=radical)
+![Gustavo Keiji GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuKeiji&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuKeiji&hide_progress=true&theme=dark)
 
 ## Tecnologias que uso no meu dia
 
